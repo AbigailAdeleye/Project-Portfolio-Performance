@@ -1,5 +1,7 @@
 # **Project-Portfolio-Performance**
 
+![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Portfolio%20Performance.png?raw=true)
+
 ## **Overview**
 
 The report provides a consolidated view of project performance across schedule, cost, resources, risk, and business value.
@@ -41,6 +43,8 @@ The dashboard was developed to bring these indicators into a single interactive 
 - Which projects have the highest forecast delays?
 - Are there unusual or outlier project performance patterns?
 
+![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Project_perf_pg1.png?raw=true)
+
 ### *Performance Drivers*
 
 - Which programmes are performing above or below the portfolio?
@@ -50,6 +54,8 @@ The dashboard was developed to bring these indicators into a single interactive 
 - Where are resource-capacity gaps affecting delivery?
 - How do outcomes compare across strategic themes?
 
+![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Project_perf_pg2.png?raw=true)
+
 ### *Risk & Value*
 
 - Which projects have the highest risk exposure?
@@ -58,7 +64,7 @@ The dashboard was developed to bring these indicators into a single interactive 
 - Which projects provide the greatest expected benefit relative to budget?
 - Where should leadership prioritize intervention?
 
----
+![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Project_perf_pg3.png?raw=true)
 
 ## **Tools & Methodology**
 
@@ -69,6 +75,8 @@ The dashboard was developed to bring these indicators into a single interactive 
 - **DAX** – KPI calculations and performance measures
 - **Data Modelling** – Structured project and portfolio analysis
 - **ZoomCharts** – Interactive visual exploration and drill-down analysis
+
+![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Project_Portfolio_Model.png?raw=true)
 
 ### *Methodology*
 
@@ -137,9 +145,9 @@ The analysis evaluates portfolio performance across five key dimensions:
 
 - **Use the dashboard to drive decisions:** Incorporate the dashboard into monthly portfolio reviews, with flagged projects assigned a clear decision such as **recover, reallocate, re-scope, escalate or continue**.
 
----
+![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Project_Portfolio_Fullimage.png?raw=true)
 
-## **Key Takeaway**
+## **Conclusion**
 
 The portfolio is **generally healthy but requires targeted intervention**.
 
