@@ -2,6 +2,8 @@
 
 ![](https://github.com/AbigailAdeleye/Project-Portfolio-Performance/blob/main/Portfolio%20Performance.png?raw=true)
 
+Interact with the visual here- https://app.powerbi.com/view?r=eyJrIjoiYmFmOTMyZmQtMmE3MC00Zjg5LWFmODItMzFmZjU2MTQ1MjRmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+
 ## **Overview**
 
 The report provides a consolidated view of project performance across schedule, cost, resources, risk, and business value.
